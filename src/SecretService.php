@@ -1,6 +1,6 @@
 <?php
 
-namespace Exxtensio\SecretsExtension;
+namespace Exxtensio\SecretExtension;
 
 class SecretService
 {
