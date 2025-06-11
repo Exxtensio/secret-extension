@@ -32,7 +32,8 @@
     },
     "require": {
         "php": "^8.4",
-        "laravel/framework": "^12.0"
+        "laravel/framework": "^12.0",
+        "aws/aws-sdk-php": "^3.344.2"
     },
     "config": {
         "sort-packages": true
